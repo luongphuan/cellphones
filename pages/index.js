@@ -1,5 +1,4 @@
 import Image from 'next/image'
-import styles from '../assets/style.scss'
 import Image1 from "../assets/image.jpg"
 
 export default function Home() {
